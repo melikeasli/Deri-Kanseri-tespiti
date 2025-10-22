@@ -24,7 +24,7 @@ Aşağıdaki çıktılar, modelin dengeleme sonrası performansını göstermekt
 <img width="1241" height="453" alt="Ekran görüntüsü 2025-10-22 163104" src="https://github.com/user-attachments/assets/0beae635-97be-4d74-8eec-ed5c0871d39f" />
 
 
-## 5. Geliştirme Önerileri
+## 4. Geliştirme Önerileri
 
 Bu model, azınlık sınıflarında yüksek F1 skoru elde etse de, gelecekteki geliştirmeler şunları içerebilir:
 
